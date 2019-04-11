@@ -1,19 +1,16 @@
-# David Bordoley 
+# David Bordoley
 Email: bordoley@gmail.com  
 Website : https://github.com/bordoley/
 
 ## Overview
-A technical manager obsessed with delivering beautiful products that customers love to use.
 
-* A leader with experience delivering projects on time using agile scrum development methodologies.
-* Experienced in developing iterative processes that include product management, UX, and engineering teams throughout design and development.
-* Strong appreciation for design aesthetics and usability.
-* Deep understanding of software development best practices.
-* Life long ambition to learn and be ahead of the technology curve.
-* A strong mentor that enjoys helping others develop their careers.
 
 ## Experience
-*April, 2015 - Present* : **Facebook, Solutions engineer**
+*April, 2015 - Present* : **Facebook, Software Engineer** (Solutions Engineering)
+
+* Partner Directory
+* Dynamic Ads for Local Products
+* Facebook Pixel Helper
 
 *May, 2014 - Feb, 2015* : **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
 
@@ -41,18 +38,8 @@ A technical manager obsessed with delivering beautiful products that customers l
 * Launched realtime SMS verification for wireless upgrade transactions.
 * Led the migration of AmazonWireless services to EC2.
 
-*June, 2007 - December, 2009* : **T-mobile, Sr. System Design Engineer** (Web Applications)
-
-* Lead system design engineer for the T-Mobile Album mobile photo sharing service.
-* Successfully launched the MobileLife web portal on a highly aggressive schedule.
-* Developed technical specifications for the T-Mobile Album RESTful web service API based upon the Atom Publication Protocol, OpenSearch 1.1 and MediaRSS 1.2, and worked closely with the third party vendor to implement the service.
-* Co-author of T-Mobile internal AJAX web application standards and best practices documentation.
-
+*June, 2007 - December, 2009* : **T-mobile, Sr. System Design Engineer** (MyAlbum)
 *December, 2005 - June, 2007* : **T-Mobile, System Design Engineer** (Picture Messaging)
-
-* Subject matter expert in all aspects of 3GPP multimedia messaging (MMS) interfaces and protocols (MM1, MM3, MM4 and MM7).
-* Launched the IM2MMS service allowing bi-directional multimedia messaging from AOL Instant Messenger to T-Mobile handsets over MMS.
-* Developed and executed a full migration plan to migrate all traffic from an existing legacy system to a geo-redundant MMSC.
 
 ## Education
 *2009 - 2014* : **MS, Computer Science**; University of Washington (Seattle, Wa)
@@ -64,14 +51,3 @@ A technical manager obsessed with delivering beautiful products that customers l
 *1998 - 2002* : **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
 
 ## Technical Skills
-* Programming Languages: 
-  * Experienced user of C#, F#, and Java.
-  * Some experience using Objective-C, C, C++, Scala, OCaml and Dart.
-  * Significant experience utilizing functional and reactive programming techniques to develop elegant and terse solutions to complex problems.
-* Networking fundamentals: OSI network model, TCP/IP.
-* Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
-* Mobile development using Xamarin for Android and iOS.
-
-## Open Source
-* Maintainer of [SQLitePCL.pretty](https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that provides an object oriented API built upon LINQ and the RX extensions that is familiar and easy to use by C# developers.
-* Currently developing [FunctionalHttp](https://github.com/bordoley/FunctionalHttp) - A .NET API written in F# that provides developers an immutable data model for creating and manipulating HTTP requests and responses, along with a fully asynchronous API for implementing HTTP clients and servers using F# asynchronous computations.
