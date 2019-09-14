@@ -7,9 +7,9 @@ A passionate software engineer with 14 years of industry experience, specializin
 ## Experience
 *April, 2015 - Present* : **Facebook, Software Engineer** (Solutions Engineering)
 
-* Partner Directory:
-* Dynamic Ads for Local Products
-* Facebook Pixel Helper
+* Led a team of 4 engineers in the developement of the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
+
+* Developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin that helps Facebook advertisers debug the setup of their Facebook advertising pixels.
 
 *May, 2014 - Feb, 2015* : **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
 
