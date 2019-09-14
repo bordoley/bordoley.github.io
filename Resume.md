@@ -1,14 +1,13 @@
 # David Bordoley
 Email: bordoley@gmail.com  
-Website : https://github.com/bordoley/
+Website: https://github.com/bordoley/
 
-## Overview
-
+A passionate software engineer with 14 years of industry experience, specializing in fullstack development. I excel at technical leadership and mentorship, instilling software excellence in teams, helping them to develop beautiful software systems. Looking for a position that empowers me to apply my passion for the art of writing software to deliver a product that changes people's lives.
 
 ## Experience
 *April, 2015 - Present* : **Facebook, Software Engineer** (Solutions Engineering)
 
-* Partner Directory
+* Partner Directory:
 * Dynamic Ads for Local Products
 * Facebook Pixel Helper
 
@@ -50,4 +49,7 @@ Website : https://github.com/bordoley/
 
 *1998 - 2002* : **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
 
+
+
 ## Technical Skills
+* JavaScript 
