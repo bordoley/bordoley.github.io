@@ -11,6 +11,8 @@ A passionate software engineer with 14 years of industry experience, specializin
 
 * Developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin that helps Facebook advertisers debug the setup of their Facebook advertising pixels.
 
+* Direct client and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
+
 ## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
 
