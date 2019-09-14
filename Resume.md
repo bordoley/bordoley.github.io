@@ -29,6 +29,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 * JavaScript (ES6/ESNext)
 * C#
 * Java
+* HackLang
 * ReactJS
 * RxJS
 * Bucklescript
