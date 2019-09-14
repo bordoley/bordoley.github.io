@@ -13,14 +13,6 @@ A passionate software engineer with 14 years of industry experience, specializin
 
 * Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
 
-## Technical Skills
-* ReasonML/OCaml
-* JavaScript (ES6/ESNext)
-* C#
-* Java
-* ReactJS
-* RXJS
-
 ## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
 
@@ -31,6 +23,14 @@ A passionate software engineer with 14 years of industry experience, specializin
 *June, 2007 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum)
 
 *December, 2005 - June, 2007*: **T-Mobile, System Design Engineer** (Picture Messaging)
+
+## Technical Skills
+* ReasonML/OCaml
+* JavaScript (ES6/ESNext)
+* C#
+* Java
+* ReactJS
+* RXJS
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
