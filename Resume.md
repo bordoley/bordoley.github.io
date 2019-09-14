@@ -2,7 +2,7 @@
 Email: bordoley@gmail.com  
 Website: https://github.com/bordoley/
 
-A passionate software engineer with 14 years of industry experience, specializing in fullstack development. I excel at technical leadership and mentorship, instilling software excellence in teams, helping them to develop beautiful software systems. Looking for a position that empowers me to apply my passion for the art of writing software to deliver a product that changes people's lives.
+A passionate software engineer with 14 years of industry experience, specializing in fullstack development. I excel at technical leadership and mentorship, instilling excellence in teams, helping them to develop beautiful software. Looking for a position that empowers me to apply my passion for the art of writing software to deliver products that change people's lives.
 
 ## Experience
 *April, 2015 - Present* : **Facebook, Software Engineer** (Solutions Engineering)
