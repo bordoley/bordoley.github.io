@@ -30,7 +30,7 @@ A passionate software engineer with 14 years of industry experience, specializin
 * C#
 * Java
 * ReactJS
-* RXJS
+* RxJS
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
