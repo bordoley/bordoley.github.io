@@ -31,6 +31,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 * Java
 * ReactJS
 * RxJS
+* Bucklescript
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
