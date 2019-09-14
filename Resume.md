@@ -4,13 +4,14 @@ Website: https://github.com/bordoley/
 
 A passionate software engineer with 14 years of industry experience, specializing in fullstack development. I excel at technical leadership and mentorship, instilling excellence in teams, helping them to develop beautiful software. Looking for a position that empowers me to apply my passion for the art of writing software to deliver products that change people's lives.
 
-## Experience
+## Recent Work Experience
 *April, 2015 - Present*: **Facebook, Software Engineer** (Solutions Engineering)
 
 * Led a team of 4 engineers in the developement of the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
 
 * Developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin that helps Facebook advertisers debug the setup of their Facebook advertising pixels.
 
+## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
 
 *June, 2012 - May, 2014*: **Amazon.com, Software Development Manager** (Cloud Drive Desktop Client for Mac and Windows)
@@ -29,8 +30,6 @@ A passionate software engineer with 14 years of industry experience, specializin
 *1998 - 2002*: **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
 
 *1998 - 2002*: **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
-
-
 
 ## Technical Skills
 * JavaScript 
