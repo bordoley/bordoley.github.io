@@ -13,29 +13,9 @@ A passionate software engineer with 14 years of industry experience, specializin
 
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
 
-* Program and project manager for the Amazon.com catalog team.
-* Responsible for driving all major initiatives related to the Amazon catalog for all business units including Amazon retail, Digital and 3rd party sellers.
-* Primary point of contact for all teams at Amazon integrating with the Amazon catalog.
-* Team scrum master.
-
 *June, 2012 - May, 2014*: **Amazon.com, Software Development Manager** (Cloud Drive Desktop Client for Mac and Windows)
 
-* Led a team of six developers and two QA engineers in building and delivering the Amazon Cloud Drive desktop client for Mac and Windows, from scratch and through multiple iterations.
-* Worked closely with product development, design and usability teams to define the customer experience and slice functionality into useful independent releases.
-* Established an agile scrum process for the team that closely integrated design and product management in the development process.
-* Implemented a behavior driven development (BDD) process where agile acceptance criteria defined by product management are directly mapped to continuous integration tests.
-* Set high engineering standards for the team including greater than 80% unit test coverage, greater than 80% automated integration test coverage, extensive instrumentation for collecting business and operational metrics, and remote configuration.
-* Encouraged the adoption of modern development techniques and technologies for improved developer productivity, including dependency injection, MVVM user interface design, and asynchronous programming using the C# Task Parallel Library, Reactive Extensions, ReactiveUI and Reactive Cocoa.
-* Lead developer on the initial release of both the Mac and Windows clients.
-
 *January, 2010 - June, 2012*: **Amazon.com, Technical Program Manager** (AmazonWireless)
-
-* Launched AmazonWireless in 2010.
-* Owner of the technical relationship between Amazon and our telecom partners AT&T, Verizon, T-Mobile and Sprint.
-* Authored internal technical documents for engineers outlining carrier webservice API flows for implementing key wireless shopping transactions.
-* Architected the replacement AmazonWireless item catalog to take advantage standard Amazon systems including the retail catalog and search, replacing a custom and non-scalable solution.
-* Launched realtime SMS verification for wireless upgrade transactions.
-* Led the migration of AmazonWireless services to EC2.
 
 *June, 2007 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum)
 
