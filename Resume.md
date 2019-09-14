@@ -7,11 +7,19 @@ A passionate software engineer with 14 years of industry experience, specializin
 ## Recent Work Experience
 *April, 2015 - Present*: **Facebook, Software Engineer** (Solutions Engineering)
 
-* Led a team of 4 engineers in the developement of the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
+* Tech lead for a team of 4 engineers in the developement of the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
 
-* Sole developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin that helps Facebook advertisers debug the setup of their Facebook advertising pixels.
+* Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin that helps Facebook advertisers debug the setup of their Facebook advertising pixels.
 
-* Direct client and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
+* Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
+
+## Technical Skills
+* ReasonML/OCaml
+* JavaScript (ES6/ESNext)
+* C#
+* Java
+* ReactJS
+* RXJS
 
 ## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
@@ -33,5 +41,4 @@ A passionate software engineer with 14 years of industry experience, specializin
 
 *1998 - 2002*: **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
 
-## Technical Skills
-* JavaScript 
+
