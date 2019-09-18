@@ -13,6 +13,9 @@ A software engineer with 14 years of industry experience, specializing in fullst
   * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vectors/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
 
 * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
+  * Led a team of 3 people in a complete incremental rewrite of the application over a 3 month period. This rewrite included the introduction of a reproduceable build system, unit and integration testing, and unidirectional data flow architecture based upon RxJS observables and the action/reducer pattern.
+  * Worked closely with product management to asses the original feature set and define a new in browser user experience.
+  * Developed a server side architecture to enable numerous internal teams at Facebook to directly integrate new error and warning messages into the Pixel Helper without client side changes.
 
 * Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
 
