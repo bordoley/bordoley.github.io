@@ -8,8 +8,8 @@ A software engineer with 14 years of industry experience, specializing in fullst
 *April, 2015 - Present*: **Facebook, Software Engineer** (Solutions Engineering)
 
 * Tech lead for a team of 4 engineers building the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
-** Drove the planning, scoping and estimation process, establishing the overall project delivery plan.
-** Implemented core client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via React Hooks.
+  * Drove the planning, scoping and estimation process, establishing the overall project delivery plan.
+  * Implemented core client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via React Hooks.
 
 * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
 
