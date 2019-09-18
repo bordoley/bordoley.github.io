@@ -10,7 +10,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 * Tech lead for a team of 4 engineers building the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
   * Drove the planning, scoping and estimation process, establishing the overall project delivery plan.
   * Implemented client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via React Hooks.
-  * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vector/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
+  * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vectors/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
 
 * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
 
