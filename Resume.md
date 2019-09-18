@@ -9,7 +9,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 
 * Tech lead for a team of 4 engineers in the developement of the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
 
-* Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin that helps Facebook advertisers debug the setup of their Facebook advertising pixels.
+* Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
 
 * Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
 
