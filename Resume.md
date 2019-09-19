@@ -36,7 +36,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 * Experience using a broad range of programming languages including ReasonML/OCaml/Bucklescript, modern JavaScript (ES6/ESNext), Typescript, Flow, C#, Java and Hack.
 * Expert experience architecting ReactJS based applications, including effective use of functional components using hooks, and designing for concurrent mode. 
 * Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex problems.
-* Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protoco., and RESTful APIs.
+* Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
