@@ -21,10 +21,14 @@ A software engineer with 14 years of industry experience, specializing in fullst
 
 ## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
+  * Technical integration lead for all major initiatives related to the Amazon catalog across all business units including Amazon retail, Digital and 3rd party sellers.
 
 *June, 2012 - May, 2014*: **Amazon.com, Software Development Manager** (Cloud Drive Desktop Client for Mac and Windows)
+  * Led a team of six developers and two QA engineers in building and delivering the Amazon Cloud Drive desktop client for Mac and Windows, from scratch and through multiple iterations. Lead developer on the initial release of both the Mac and Windows clients.
 
 *January, 2010 - June, 2012*: **Amazon.com, Technical Program Manager** (AmazonWireless)
+  * Owner of the technical relationship between Amazon and telecom partners at AT&T, Verizon, T-Mobile and Sprint throughout the implementation of AmazonWireless (shipped in Q4/2010).
+  * Architected the replacement AmazonWireless item catalog to take advantage standard Amazon systems including the retail catalog and search, replacing a custom and non-scalable solution.
 
 *June, 2007 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum)
 
