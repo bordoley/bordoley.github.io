@@ -30,9 +30,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
   * Owner of the technical relationship between Amazon and telecom partners at AT&T, Verizon, T-Mobile and Sprint throughout the implementation of AmazonWireless (shipped in Q4/2010).
   * Architected the replacement AmazonWireless item catalog to take advantage standard Amazon systems including the retail catalog and search, replacing a custom and non-scalable solution.
 
-*June, 2007 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum)
-
-*December, 2005 - June, 2007*: **T-Mobile, System Design Engineer** (Picture Messaging)
+*December, 2005 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum and Picture Messaging)
 
 ## Technical Skills
 * ReasonML/OCaml
