@@ -35,7 +35,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 ## Technical Skills
 * Proficient in a broad range of programming languages including ReasonML/OCaml/Bucklescript, modern JavaScript, Typescript, Flow, C#, Java and Hack.
 * Expert in architecting ReactJS based applications, including effective use of functional components using hooks, and designing for concurrent mode. 
-* Significant experience using functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex softare engineering problems.
+* Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex software engineering problems.
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
 
 ## Education
