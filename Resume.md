@@ -33,11 +33,7 @@ A software engineer with 14 years of industry experience, specializing in fullst
 *December, 2005 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum and Picture Messaging)
 
 ## Technical Skills
-* ReasonML/OCaml
-* JavaScript (ES6/ESNext)
-* C#
-* Java
-* HackLang
+* Experience using a broad range of programming languages including ReasonML/OCaml, modern JavaScript (ES6/ESNext), typescript, Flow, C#, Java and Hack.
 * ReactJS
 * RxJS
 * Bucklescript
