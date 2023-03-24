@@ -7,6 +7,7 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 
 ## Recent Work Experience
 *November, 2021 - Present*: **Meta, Software Engineer** (Business Engineering)
+  * Lead engineer on the Meta Business Accelerator partnership incentive program for high value advertisers, which drove over $100M in incremental ad revenue, despite macro-economic conditions.
 
 *June, 2019 - October, 2021*: **Facebook, Software Engineer** (Solutions Engineering)
   * Tech lead for a team of 4 engineers building the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
