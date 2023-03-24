@@ -7,13 +7,12 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 
 ## Recent Work Experience
 *November, 2021 - Present*: **Meta, Software Engineer** (Business Engineering)
-  * Lead engineer on the Meta Business Accelerator partnership incentive program for high value advertisers, which drove over $100M in incremental ad revenue, despite macro-economic conditions.
+  * Lead engineer on the Meta Business Accelerator partnership incentive program for high value advertisers, which drove over $100M in incremental ad revenue, despite macro-economic conditions. 
 
 *June, 2019 - October, 2021*: **Facebook, Software Engineer** (Solutions Engineering)
+  * Lead Engineer on the Meta Business Partner program. Including both frontend and backend development.
   * Tech lead for a team of 4 engineers building the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
   * Drove the planning, scoping and estimation process, establishing the overall project delivery plan.
-  * Implemented a client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via custom React hooks.
-  * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vectors/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
 
 *April, 2015 - May, 2019*: **Facebook, Software Engineer** (Solutions Engineering)
   * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
@@ -40,6 +39,9 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 * Expert in architecting ReactJS based applications, including effective use of functional components using hooks, and designing for concurrent mode. 
 * Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex software engineering problems.
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
+* Implemented a client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via custom React hooks.
+ * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vectors/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
+
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
