@@ -37,13 +37,14 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 *December, 2005 - December, 2009*: **T-mobile, Sr. System Design Engineer** (MyAlbum and Picture Messaging)
 
 ## Technical Skills
-* Proficient in a broad range of programming languages including ReasonML/OCaml/Bucklescript, modern JavaScript, Typescript, Flow, C#, Java and Hack.
+* Proficient in a broad range of programming languages including Typescript, Flow, Hack, C#, Java, and ReasonML(OCaml).
 * Expert in architecting ReactJS based applications, including effective use of functional components using hooks, and designing for concurrent mode. 
 * Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex software engineering problems.
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
-* Implemented a client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via custom React hooks.
- * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vectors/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
 
+## Notable Open Source Projects and Contributions
+* [Reactive-JS](https://github.com/bordoley/reactive-js): A Typescript framework for implementing functional-reactive streams with backpressure and cooperative scheduling. 
+* [Immutable-RE](https://github.com/facebookarchive/immutable-re): A ReasonML based immutable collections framework.
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
