@@ -43,8 +43,8 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
 
 ## Open Source
-* [Reactive-JS](https://github.com/bordoley/reactive-js): A Typescript framework for implementing functional-reactive streams with backpressure and cooperative scheduling. 
-* [Immutable-RE](https://github.com/facebookarchive/immutable-re): A ReasonML based immutable collections framework.
+* [reactive-js](https://github.com/bordoley/reactive-js): A Typescript framework for implementing functional-reactive streams with backpressure and cooperative scheduling. 
+* [immutable-re](https://github.com/facebookarchive/immutable-re): A ReasonML based immutable collections framework.
 
 ## Education
 *2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
