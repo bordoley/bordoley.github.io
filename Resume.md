@@ -42,7 +42,7 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 * Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex software engineering problems.
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
 
-## Notable Open Source Projects and Contributions
+## Open Source
 * [Reactive-JS](https://github.com/bordoley/reactive-js): A Typescript framework for implementing functional-reactive streams with backpressure and cooperative scheduling. 
 * [Immutable-RE](https://github.com/facebookarchive/immutable-re): A ReasonML based immutable collections framework.
 
