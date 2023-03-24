@@ -15,6 +15,7 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
   * Drove the planning, scoping and estimation process, establishing the overall project delivery plan.
 
 *May, 2018 - May, 2019*: **Facebook, Software Engineer** (Solutions Engineering, New York)
+
 *April, 2015 - April, 2018*: **Facebook, Software Engineer** (Solutions Engineering, Seattle)
   * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
   * Led a team of 3 people in a complete incremental rewrite of the application over a 3 month period. This rewrite included the introduction of a reproduceable build system, unit and integration testing, and a unidirectional data flow architecture based upon RxJS observables and the action/reducer pattern.
