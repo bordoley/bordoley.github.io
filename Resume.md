@@ -6,19 +6,20 @@
 A seasoned Sr. Software Engineer with extensive industry experience at Meta, Facebook, and Amazon, specializing in fullstack product development. I excel at delivering efficient solutions in the face of ambiguity, working across cross-functional teams, and mentoring junior engineers.  Seeking a position that empowers me to apply my zeal for the art of writing software to the delivery of impactful products.
 
 ## Recent Work Experience
-*April, 2015 - Present*: **Facebook, Software Engineer** (Solutions Engineering)
+*November, 2021 - Present*: **Meta, Software Engineer** (Business Engineering)
 
-* Tech lead for a team of 4 engineers building the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
+*June, 2019 - October, 2021*: **Facebook, Software Engineer** (Solutions Engineering)
+  * Tech lead for a team of 4 engineers building the Facebook for Business [Partner Directory](https://www.facebook.com/business/partner-directory/search), a search tool that helps Facebook advertisers find marketing partners. 
   * Drove the planning, scoping and estimation process, establishing the overall project delivery plan.
   * Implemented a client/server two-way data-binding architecture based upon RxJS observables, bound to the frontend rendering logic via custom React hooks.
   * Implemented a javascript runtime specific type-safe, zero-overhead, immutable, copy-on-write data-structure library (vectors/maps/sets) in ReasonML. These data-structures are used pervasively throughout the application.
 
-* Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
+*April, 2015 - May, 2019*: **Facebook, Software Engineer** (Solutions Engineering)
+  * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
   * Led a team of 3 people in a complete incremental rewrite of the application over a 3 month period. This rewrite included the introduction of a reproduceable build system, unit and integration testing, and a unidirectional data flow architecture based upon RxJS observables and the action/reducer pattern.
   * Worked closely with product management to asses the original feature set and define a new in browser user experience.
   * Developed a server side architecture to enable numerous internal teams at Facebook to directly integrate new error and warning messages into the Pixel Helper without client side changes.
-
-* Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
+  * Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
 
 ## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
