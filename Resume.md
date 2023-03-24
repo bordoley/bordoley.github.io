@@ -3,7 +3,7 @@
 * Website: https://github.com/bordoley/
 * LinkedIn: https://www.linkedin.com/in/bordoley/
 
-A software engineer with 14 years of industry experience, specializing in fullstack development, with a passion for functional programming. I excel at technical leadership and mentorship, instilling excellence in teams, helping them to develop beautiful software. Looking for a position that empowers me to apply my zeal for the art of writing software to deliver products that change people's lives.
+A seasoned Sr. Software Engineer with extensive industry experience at Meta, Facebook, and Amazon, specializing in fullstack product development. I excel at delivering efficient solutions in the face of ambiguity, working across cross-functional teams, and mentoring junior engineers.  Seeking a position that empowers me to apply my zeal for the art of writing software to the delivery of impactful products.
 
 ## Recent Work Experience
 *April, 2015 - Present*: **Facebook, Software Engineer** (Solutions Engineering)
