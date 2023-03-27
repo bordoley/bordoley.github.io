@@ -41,6 +41,8 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 * Expert in architecting ReactJS based applications, including effective use of functional components using hooks, and designing for concurrent mode. 
 * Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex software engineering problems.
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
+* Experience with version control systems such as Git and knowledge of continuous integration and deployment.
+* Deep knowledge of front-end web technologies such as HTML, CSS, and JavaScript.
 
 ## Open Source
 * [reactive-js](https://github.com/bordoley/reactive-js): A Typescript framework for implementing functional-reactive streams with backpressure and cooperative scheduling. 
