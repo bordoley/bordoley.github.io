@@ -3,7 +3,7 @@
 * Website: https://github.com/bordoley/
 * LinkedIn: https://www.linkedin.com/in/bordoley/
 
-A seasoned Sr. Software Engineer with extensive industry experience at Meta, Facebook, and Amazon, specializing in fullstack product development. I excel at delivering efficient solutions in the face of ambiguity, working across cross-functional teams, and mentoring junior engineers.  Seeking a position that empowers me to apply my zeal for the art of writing software to the delivery of impactful products.
+A seasoned Sr. Software Engineer with extensive industry experience at Meta, Facebook, and Amazon, specializing in full-stack product development. I excel at delivering efficient solutions in the face of ambiguity, working across cross-functional teams, and mentoring junior engineers.  Seeking a position that empowers me to apply my zeal for the art of writing software to the delivery of impactful products.
 
 ## Recent Work Experience
 *November, 2021 - Present*: **Meta, Software Engineer** (Business Engineering, New York)
