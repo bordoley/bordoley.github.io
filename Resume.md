@@ -87,7 +87,7 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 * Significant experience utilizing functional and reactive programming (Rx.NET, RxJS) techniques to develop elegant and terse solutions to complex software engineering problems.
 * Solid foundation in networking fundamentals including OSI network model, TCP/IP and the HTTP protocol, and RESTful APIs.
 * Experience with version control systems such as Git and knowledge of continuous integration and deployment.
-* Deep knowledge of both front-end and backend web technologies such as Node.js and Deno.
+* Deep knowledge of both front-end web technologies and backend web technologies such as HTML, CSS, Node.js and Deno.
 * Expertise in software development methodologies such as Agile, Scrum, and Waterfall, and software testing frameworks such as Jest.
 
 ## Open Source
