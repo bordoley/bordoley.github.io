@@ -60,16 +60,3 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 *1998 - 2002*: **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
 
 *1998 - 2002*: **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
-
-## Open Source
-* [reactive-js](https://github.com/bordoley/reactive-js): A Typescript framework for implementing functional-reactive streams with backpressure and cooperative scheduling. 
-* [immutable-re](https://github.com/facebookarchive/immutable-re): A ReasonML based immutable collections framework.
-
-## Education
-*2009 - 2014*: **MS, Computer Science**; University of Washington (Seattle, Wa)
-
-*2003 - 2005*: **MS, Electrical Engineering**; University of Washington (Seattle, Wa)
-
-*1998 - 2002*: **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
-
-*1998 - 2002*: **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
