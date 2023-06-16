@@ -19,11 +19,13 @@ A seasoned Sr. Software Engineer with extensive industry experience at Meta, Fac
 *May, 2018 - May, 2019*: **Facebook, Software Engineer** (Solutions Engineering, New York)
 
 *April, 2015 - April, 2018*: **Facebook, Software Engineer** (Solutions Engineering, Seattle)
+  * Direct client sales, engineering and product onboarding support for Facebook's largest e-commerce and entertainement advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
+    * Drove the Wish.com adoption of Facebook Product and Mobile App Install ads, growing them into Facebook's largest advertiser, peaking at $1Bn/year in advetising spend.
+    * Implemented custom integrations enabling Amazon.com to adopt Facebook Product Ads, growing them into Facebook's second largest advertiser.
   * Lead developer of the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en), a Chrome browser plugin used by 1.5 million people that helps them debug their Facebook advertising pixel setups.
-  * Led a team of 3 people in a complete incremental rewrite of the application over a 3 month period. This rewrite included the introduction of a reproduceable build system, unit and integration testing, and a unidirectional data flow architecture based upon RxJS observables and the action/reducer pattern.
-  * Worked closely with product management to asses the original feature set and define a new in browser user experience.
-  * Developed a server side architecture to enable numerous internal teams at Facebook to directly integrate new error and warning messages into the Pixel Helper without client side changes.
-  * Direct client sales, engineering and product onboarding support for Facebook advertisers including Amazon, Wish.com, EBay, Spotify and HBO.
+    * Led a team of 3 people in a complete incremental rewrite of the application over a 3 month period. This rewrite included the introduction of a reproduceable build system, unit and integration testing, and a unidirectional data flow architecture based upon RxJS observables and the action/reducer pattern.
+    * Worked closely with product management to asses the original feature set and define a new in browser user experience.
+    * Developed a server side architecture to enable numerous internal teams at Facebook to directly integrate new error and warning messages into the Pixel Helper without client side changes.
 
 ## Previous Work Experience
 *May, 2014 - Feb, 2015*: **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
